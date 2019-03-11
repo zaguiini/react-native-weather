@@ -1,11 +1,11 @@
 # React Native simple weather app
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zaguiini/react-native-weather/master/screenshots/initial.png" width="300" alt="Initial screen" />
+  <img src="https://raw.githubusercontent.com/zaguiini/react-native-weather/master/screenshots/initial.png" width="275" alt="Initial screen" />
 
-  <img src="https://raw.githubusercontent.com/zaguiini/react-native-weather/master/screenshots/summary.png" width="300" alt="Weather summary" />
+  <img src="https://raw.githubusercontent.com/zaguiini/react-native-weather/master/screenshots/summary.png" width="275" alt="Weather summary" />
 
-  <img src="https://raw.githubusercontent.com/zaguiini/react-native-weather/master/screenshots/details.png" width="300" alt="Weather details" />
+  <img src="https://raw.githubusercontent.com/zaguiini/react-native-weather/master/screenshots/details.png" width="275" alt="Weather details" />
 </p>
 
 ## How to build
