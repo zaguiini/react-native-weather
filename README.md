@@ -1,5 +1,9 @@
 # React Native simple weather app
 
+![Initial screen](https://raw.githubusercontent.com/zaguiini/react-native-weather/master/screenshots/initial.png)
+![Weather summary](https://raw.githubusercontent.com/zaguiini/react-native-weather/master/screenshots/summary.png)
+![Weather details](https://raw.githubusercontent.com/zaguiini/react-native-weather/master/screenshots/details.png)
+
 ## How to build
 
 Open a terminal, then enter `yarn start`
@@ -23,6 +27,13 @@ Open `ios/weather.xcodeproj` on Xcode, then press `Run`
 - `react-native-vector-icons`: icons set
 - `react-navigation`: mobile navigation for react native
 - `react-navigation-hooks`: helpful react hooks for react navigation
+
+## Possible improvements
+
+- [`i18n`](<https://pt.wikipedia.org/wiki/Internacionaliza%C3%A7%C3%A3o_(inform%C3%A1tica)>)
+- offline experience
+- android bundle size
+- show selected date on weather details page
 
 ## License
 
