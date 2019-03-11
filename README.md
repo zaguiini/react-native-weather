@@ -38,6 +38,7 @@ Open `ios/weather.xcodeproj` on Xcode, then press `Run`
 - offline experience
 - android `.apk` reduction
 - show selected date on weather details page
+- auto search on android (currently you got to press the `confirm` button to fire the weather fetching)
 
 ## License
 
