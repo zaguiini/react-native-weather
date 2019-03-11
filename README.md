@@ -1,6 +1,8 @@
 # React Native simple weather app
 
-![Initial screen](https://raw.githubusercontent.com/zaguiini/react-native-weather/master/screenshots/initial.png)
+<img src="https://raw.githubusercontent.com/zaguiini/react-native-weather/master/screenshots/initial.png" width="250" />
+
+![Initial screen]()
 ![Weather summary](https://raw.githubusercontent.com/zaguiini/react-native-weather/master/screenshots/summary.png)
 ![Weather details](https://raw.githubusercontent.com/zaguiini/react-native-weather/master/screenshots/details.png)
 
