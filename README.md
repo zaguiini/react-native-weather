@@ -12,15 +12,15 @@
 
 Open a terminal, then enter `yarn start`
 
-### Android:
+### Android
 
 Open another terminal tab, then `cd android && ./gradlew installDebug`
 
-### iOS:
+### iOS
 
 Open `ios/weather.xcodeproj` on Xcode, then press `Run`
 
-## Dependencies:
+## Dependencies
 
 - `axios`: better data fetching
 - `date-fns`: functional date processing library (way better than `moment.js`)
