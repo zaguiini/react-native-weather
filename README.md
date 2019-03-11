@@ -36,7 +36,7 @@ Open `ios/weather.xcodeproj` on Xcode, then press `Run`
 
 - [`i18n`](<https://pt.wikipedia.org/wiki/Internacionaliza%C3%A7%C3%A3o_(inform%C3%A1tica)>)
 - offline experience
-- android bundle size
+- android `.apk` reduction
 - show selected date on weather details page
 
 ## License
